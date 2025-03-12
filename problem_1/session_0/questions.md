@@ -40,5 +40,5 @@ Espero que estas explicações tenham sido úteis. Se tiver mais dúvidas, estou
 
 ## 6. Referências:
 
-PATTERSON, David A.; HENNESSY, John L. Computer Organization and Design: ARM Edition. 6. ed. Burlington: Morgan Kaufmann, 2017.
+PATTERSON, David A.; HENNESSY, John L. Computer Organization and Design: ARM Edition. 8. ed. Burlington: Morgan Kaufmann, 2017.
 TERASIC. DE1-SoC Development Kit. Terasic. Disponível em: https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=165&No=836#contents. Acesso em: 12 mar. 2025.
