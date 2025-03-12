@@ -12,13 +12,13 @@ Arquitetura baseada em pipeline é uma técnica utilizada em processadores para 
 
 O paralelismo em hardware pode ser implementado de diversas maneiras, incluindo:
 
-    Múltiplos núcleos de processamento: Integrando múltiplos processadores em um único chip, permitindo a execução simultânea de múltiplas tarefas.
+Múltiplos núcleos de processamento: Integrando múltiplos processadores em um único chip, permitindo a execução simultânea de múltiplas tarefas.
 
-    Arquiteturas SIMD (Single Instruction, Multiple Data): Onde uma única instrução é aplicada a múltiplos dados simultaneamente.
+Arquiteturas SIMD (Single Instruction, Multiple Data): Onde uma única instrução é aplicada a múltiplos dados simultaneamente.
 
-    Pipelining: Dividindo o processamento de instruções em estágios sequenciais que podem operar em paralelo.
+Pipelining: Dividindo o processamento de instruções em estágios sequenciais que podem operar em paralelo.
 
-    Unidades de execução paralela: Como unidades de ponto flutuante ou vetoriais dedicadas, que executam operações específicas em paralelo com a CPU principal.
+Unidades de execução paralela: Como unidades de ponto flutuante ou vetoriais dedicadas, que executam operações específicas em paralelo com a CPU principal.
 
 ## 4. O que é o kit de desenvolvimento DE1-SoC?
 
@@ -28,11 +28,11 @@ O DE1-SoC é um kit de desenvolvimento que oferece uma plataforma robusta para d
 
 Representar números reais com apenas oito bits envolve compromissos entre o alcance e a precisão. Uma abordagem comum é utilizar a notação de ponto flutuante reduzida, dividindo os 8 bits em:
 
-    Sinal (1 bit): Indica se o número é positivo ou negativo.
+Sinal (1 bit): Indica se o número é positivo ou negativo.
 
-    Expoente (3 bits): Define a magnitude do número, permitindo a escala para diferentes ordens de grandeza.
+Expoente (3 bits): Define a magnitude do número, permitindo a escala para diferentes ordens de grandeza.
 
-    Mantissa ou significando (4 bits): Representa a precisão do número.
+Mantissa ou significando (4 bits): Representa a precisão do número.
 
 Essa divisão permite representar uma faixa de números reais, embora com menor precisão e intervalo em comparação com representações de ponto flutuante padrão de 32 ou 64 bits.
 
